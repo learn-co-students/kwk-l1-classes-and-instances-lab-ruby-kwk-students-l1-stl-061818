@@ -1,3 +1,6 @@
 # person.rb
-class Person(adele_goldberg,alan_kay)
+class Person
+  def initialize(cool,chill)
+    @cool = cool
+    @chill = chill
 end 
